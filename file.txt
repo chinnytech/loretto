@@ -1,0 +1,3 @@
+qa testing
+performance testing
+deployment is ready in uat
